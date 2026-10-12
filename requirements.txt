@@ -1,6 +1,6 @@
 streamlit>=1.32
-scikit-learn==1.2.2    # replace with the version printed in Task 1.1
+scikit-learn==YOUR_SKLEARN_VERSION
 pandas
 numpy
 joblib
-# xgboost==2.0.3 
+xgboost==YOUR_XGBOOST_VERSION
